@@ -30,13 +30,13 @@ LAB_SSID
 ## 使いかた
 
 ```sh
-make init
+make install
 ```
 で終わりです
 
 ## アンインストールする
 
 ```sh
-make delete
+make uninstall
 ```
 
