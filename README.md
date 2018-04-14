@@ -1,4 +1,4 @@
-# auto-switch-wifi
+# auto-wifi-switcher
 
 macのネットワーク環境を自動で切り替えるツールです
 
