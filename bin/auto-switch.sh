@@ -17,4 +17,3 @@ else
   scselect Automatic
 fi
 
-
