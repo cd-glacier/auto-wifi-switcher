@@ -1,5 +1,7 @@
 #!bin/bash
 
+echo "auto-wifi-switcher is running"
+
 if [ -z "$LAB_NETWORK" ]; then
   LAB_NETWORK="nislab"
 fi
